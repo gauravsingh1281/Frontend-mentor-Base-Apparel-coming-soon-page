@@ -82,7 +82,7 @@ input[type="text"]:focus {
   align-items: center;
   justify-content: center;
   position: absolute;
-  bottom: 28.5px;
+  bottom: 52.5px;
   right: 71px;
   height: 46px;
   border-radius: 30px;
@@ -100,7 +100,7 @@ button:hover {
 }
 .error-img {
   position: absolute;
-  bottom: 39px;
+  bottom: 63px;
   right: 157px;
 }
 .error-msg {
