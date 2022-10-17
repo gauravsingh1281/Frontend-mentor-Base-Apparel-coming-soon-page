@@ -78,6 +78,7 @@ input[type="text"]:focus {
 }
 .btn1 {
   background-image: linear-gradient(135deg, hsl(0, 80%, 86%), hsl(0, 74%, 74%));
+  box-shadow: 0 5px 20px 3px hsl(0deg 80% 86%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -199,6 +200,7 @@ button:hover {
       hsl(0, 80%, 86%),
       hsl(0, 74%, 74%)
     );
+    box-shadow: 0 5px 20px 3px hsl(0deg 80% 86%);
     display: flex;
     align-items: center;
     justify-content: center;
